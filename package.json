@@ -1,7 +1,7 @@
 {
 	"name": "my-cli",
 	"version": "0.1.0",
-	"description": "A program to calculate your brain",
+	"description": "A simple CLI calculator",
 	"main": "index.js",
 	"author": "Ademola Adegbuyi <ooade96@gmail.com>",
 	"bin": {
